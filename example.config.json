@@ -1,0 +1,12 @@
+{
+	"guild": "822794927754706975",
+	"log": "911657127095963648",
+	"prefix": "mm",
+	"roles": {
+		"bot": "873330240309571645",
+		"mod": ["833777916173221929"]
+	},
+	"ticketCategory": "911656903468261436",
+	"dmUsers": false,
+	"deleteTicketOnLeave": false
+}
