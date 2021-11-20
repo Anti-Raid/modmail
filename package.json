@@ -1,0 +1,27 @@
+{
+  "name": "discord-modmail",
+  "version": "1.1.0",
+  "description": "JavaScript modmail bot with rich features.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "nodemon bot.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord.js": "13.1.0",
+    "express": "^4.17.1",
+    "quick.db": "^7.1.2",
+    "sourcebin": "^4.2.5",
+    "ubuntu-pastebin": "^1.0.1"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://github.com/Cyanic76/discord-modmail"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ]
+}
